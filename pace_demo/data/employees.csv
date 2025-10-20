@@ -1,0 +1,7 @@
+employee_id,full_name,department,hire_date,is_active
+1001,John Smith,Dispatch,2023-03-10,True
+1002,Maria Lopez,Operations,2022-08-25,True
+1003,Kevin Lee,Dispatch,2024-01-12,True
+1004,Alice Brown,Sales Ops,2021-06-01,True
+1005,David Clark,Sales Ops,2020-11-20,True
+1006,Sofia Martinez,Dispatch,2023-07-15,True

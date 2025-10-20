@@ -1,0 +1,4 @@
+tier_id,margin_from,margin_to,rate_pct
+1,0.0,20.0,1.5
+2,20.0,30.0,2.0
+3,30.0,,2.5
